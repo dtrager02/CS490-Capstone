@@ -1,3 +1,6 @@
+*.inter filter=lfs diff=lfs merge=lfs -text
+*.item filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
 /data[[:space:]]understanding.ipynb filter=lfs diff=lfs merge=lfs -text
 /RecBole[[:space:]]PreProcessing/orders.inter filter=lfs diff=lfs merge=lfs -text
 /RecBole[[:space:]]PreProcessing/orders.item filter=lfs diff=lfs merge=lfs -text
