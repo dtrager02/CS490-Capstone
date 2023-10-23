@@ -1,1 +1,4 @@
 *.csv
+*.inter
+*.item
+\.vscode/*
